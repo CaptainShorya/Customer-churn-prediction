@@ -15,7 +15,3 @@ __pycache__/
 
 # Environment variables
 .env
-
-# Model files (optional if large)
-*.h5
-*.keras
